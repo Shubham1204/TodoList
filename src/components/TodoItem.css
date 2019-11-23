@@ -1,0 +1,19 @@
+.btn{
+    border-radius: 50%;
+    border: none;
+    background-color: red;
+    float: right;
+    padding: 3px 7px;
+    /* border-bottom: 1px solid green; */
+}
+
+.todoitem{
+    background-color: #f4f4f4;
+    border-bottom: 1px solid grey;
+    padding-top: 20px;
+}
+
+.add-btn{
+    background-color: lightgray;
+    border: 1px solid grey;
+}
