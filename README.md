@@ -1,5 +1,5 @@
 # See Demo
-[![Netlify Status](See)](https://vigilant-raman-7922d0.netlify.com/)
+(See)](https://vigilant-raman-7922d0.netlify.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
