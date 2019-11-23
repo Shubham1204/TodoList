@@ -1,9 +1,9 @@
 .btn{
-    border-radius: 50%;
+    /* border-radius: 50%; */
     border: none;
-    background-color: red;
+    background-color: chartreuse;
     float: right;
-    padding: 3px 7px;
+    padding: 2px 5px;
     /* border-bottom: 1px solid green; */
 }
 
@@ -11,6 +11,7 @@
     background-color: #f4f4f4;
     border-bottom: 1px solid grey;
     padding-top: 20px;
+    color: black;
 }
 
 .add-btn{

@@ -5,8 +5,8 @@ class TodoItem extends Component {
     getStyle = () => {
         return {
             background: '#f4f4f4',
-            padding:'10px',
-            borderBottom: '1px #ccc dotted',
+            padding:'2px',
+            borderBottom: '1px #ccc dashed',
             textDecoration: this.props.todo.completed?'line-through':'none'
         }
     }
@@ -20,7 +20,7 @@ class TodoItem extends Component {
     <p> 
         <input type="checkbox" className="mr-3 ml-2" onChange={this.props.markComplete.bind(this,id)} />
         {title}
-        <button className="btn mr-4" onClick={this.props.delTodo.bind(this,id)}>X</button>
+        <button className="btn mr-4" onClick={this.props.delTodo.bind(this,id)}>Delete</button>
     </p>
             </div>
         );

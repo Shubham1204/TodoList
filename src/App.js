@@ -66,7 +66,7 @@ addTodo = (title) => {
 render(){
   return (
     <Router>
-    <div className="container">
+    <div className="container-fluid">
       <Header />
       <Route exact path="/" render={() => (
         <React.Fragment>
