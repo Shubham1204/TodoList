@@ -1,3 +1,6 @@
+# See Demo
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c76c3e58-90a1-48fb-9fbd-72a2b08b80f0/deploy-status)](https://app.netlify.com/sites/vigilant-raman-7922d0/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
