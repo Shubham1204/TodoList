@@ -1,4 +1,4 @@
-# Click the below link view Demo 
+# Click the below image to view Demo 
 [![demo](https://user-images.githubusercontent.com/32667635/69485030-51c90800-0e60-11ea-941b-8273e42d9f0a.png)](https://vigilant-raman-7922d0.netlify.com/)
 
 ## ScreenShots
