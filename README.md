@@ -1,6 +1,9 @@
 # Click the below image to view Demo 
 [![demo](https://user-images.githubusercontent.com/32667635/69485030-51c90800-0e60-11ea-941b-8273e42d9f0a.png)](https://vigilant-raman-7922d0.netlify.com/)
 
+If you enjoy this project, please consider supporting me to continue developing and maintaining it.
+[![paypal-support](https://user-images.githubusercontent.com/32667635/71374712-b3a49b00-25e1-11ea-944e-ff5f4a0b6cfe.jpg)](https://paypal.me/shubhamgupta1204)
+
 ## ScreenShots
 ![Screenshot (54)](https://user-images.githubusercontent.com/32667635/69485008-ff87e700-0e5f-11ea-94ca-e9a5a39a999b.png)
 ![Screenshot (55)](https://user-images.githubusercontent.com/32667635/69485009-0282d780-0e60-11ea-855d-95b35ff1c99f.png)
